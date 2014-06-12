@@ -1,0 +1,5 @@
+D:\Privat\Dag\SkyDrive\Demonstrations\Azure\webjobs-read-from-queue\example-webjobs-read-from-queue-solution\Common\bin\Debug\Common.dll
+D:\Privat\Dag\SkyDrive\Demonstrations\Azure\webjobs-read-from-queue\example-webjobs-read-from-queue-solution\Common\bin\Debug\Common.pdb
+D:\Privat\Dag\SkyDrive\Demonstrations\Azure\webjobs-read-from-queue\example-webjobs-read-from-queue-solution\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Privat\Dag\SkyDrive\Demonstrations\Azure\webjobs-read-from-queue\example-webjobs-read-from-queue-solution\Common\obj\Debug\Common.dll
+D:\Privat\Dag\SkyDrive\Demonstrations\Azure\webjobs-read-from-queue\example-webjobs-read-from-queue-solution\Common\obj\Debug\Common.pdb
